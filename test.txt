@@ -1,0 +1,7 @@
+test.txt
+hello world
+hello python
+hello scheise
+
+change stage and work area
+it's changed
