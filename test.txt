@@ -1,7 +1,2 @@
-test.txt
-hello world
-hello python
-hello scheise
+Is"s new test.txt
 
-change stage and work area
-it's changed
